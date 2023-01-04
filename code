@@ -1,3 +1,4 @@
+#this code is to count the number of fingers pointed using opencv
 import cv2 as cv
 import mediapipe as mp
 import math
